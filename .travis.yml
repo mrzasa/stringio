@@ -1,5 +1,8 @@
 sudo: false
 language: ruby
+os:
+  - osx
+  - linux
 rvm:
   - 2.5
   - 2.6
